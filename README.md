@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JeenaKhurram
 - 👀 I’m interested in C# and SQL
 - 🌱 I’m currently learning Full Stack on Develhope
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I'm a Digital Channels Application Development Intern 
+- 📫 How to reach me linkedin.com/in/jeenakhurram
 
 <!---
 JeenaKhurram/JeenaKhurram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
