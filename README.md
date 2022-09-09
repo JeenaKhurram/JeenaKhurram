@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# and SQL
 - 🌱 I’m currently learning Full Stack on Develhope
 - 💞️ I'm a Digital Channels Application Development Intern 
-- 📫 How to reach me linkedin.com/in/jeenakhurram and email jeenistyles7@gmail.com
+- 📫 How to reach me: jeenistyles7@gmail.com
 
 
 <!---
